@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+[⬇️ Download my CV (PDF)](/files/CV_Miriam_Engel.pdf)
+
 {% include base_path %}
 
 Education
