@@ -7,7 +7,9 @@ redirect_from:
   - /resume
 ---
 
-[⬇️ Download my CV (PDF)](/files/CV_Miriam_Engel.pdf)
+<a href="/files/CV_Miriam_Engel.pdf" class="btn btn--primary btn--large" style="display:inline-block;margin-bottom:2em;">⬇️ Download My CV (PDF)</a>
+
+_Or browse the details of my CV below:_
 
 {% include base_path %}
 
